@@ -300,9 +300,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `profile_picture`, `remember_token`, `role_id`, `created_at`, `updated_at`) VALUES
-(1, 'Galih Anggoro Prasetya', 'g4lihanggoro@gmail.com', NULL, '$2y$10$v5B0RKc/6yC.umEV/30N8.RboOJoCuRdcTe64BiW1jr4lHm2eqHnW', 'avatar-admin.png', NULL, 1, '2024-07-31 13:12:15', '2024-07-31 14:26:00'),
-(2, 'Makoto Makimura', 'makoto@mail.com', NULL, '$2y$10$InnWPpg3LHyJAQqg1lHq/eBLx.VfSaUOD9KJA4njYAXjXdb5OavCu', 'avatar-4.png', 'XJicTBhqLJ18Tm3loyH62WZ3ehydOOVeScTL2CFN8puOzMZqOvM78GG2PQx1', 2, '2024-07-31 14:06:52', '2024-07-31 14:29:12'),
-(3, 'Kazuma Kiryu', 'kazuma@mail.com', NULL, '$2y$10$aouYlqtAhYhFQmfGwNmwkeTmTY2ewZNS1LM8cz3t32pOo.g6jXn2e', 'avatar-5.png', '14t2ASRwFTrYHhnjdYdvJrCSq9LLtoPacCOM3yRehVazrfBNe3TtlIC1nEKq', 2, '2024-07-31 14:18:25', '2024-07-31 14:39:48'),
+(1, 'tugas eai', 'tugaseai@gmail.com', NULL, '$2y$10$v5B0RKc/6yC.umEV/30N8.RboOJoCuRdcTe64BiW1jr4lHm2eqHnW', 'avatar-admin.png', NULL, 1, '2024-07-31 13:12:15', '2024-07-31 14:26:00'),
+(2, 'jennie', 'jennie@mail.com', NULL, '$2y$10$InnWPpg3LHyJAQqg1lHq/eBLx.VfSaUOD9KJA4njYAXjXdb5OavCu', 'avatar-4.png', 'XJicTBhqLJ18Tm3loyH62WZ3ehydOOVeScTL2CFN8puOzMZqOvM78GG2PQx1', 2, '2024-07-31 14:06:52', '2024-07-31 14:29:12'),
+(3, 'jisoo', 'jisoo@mail.com', NULL, '$2y$10$aouYlqtAhYhFQmfGwNmwkeTmTY2ewZNS1LM8cz3t32pOo.g6jXn2e', 'avatar-5.png', '14t2ASRwFTrYHhnjdYdvJrCSq9LLtoPacCOM3yRehVazrfBNe3TtlIC1nEKq', 2, '2024-07-31 14:18:25', '2024-07-31 14:39:48'),
 (4, 'admin', 'tokoku@gmail.com', NULL, '$2y$10$njvr3l1O5LAP7AB8F05lLesDlN66b.f5lluC1gGw8aOy6f3j3YAFu', 'avatar-admin.png', NULL, 1, '2024-12-26 11:05:20', '2024-12-26 11:05:20');
 
 --
